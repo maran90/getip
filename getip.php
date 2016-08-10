@@ -22,4 +22,6 @@ function get_client_ip() {
 
 echo get_client_ip();
 
+echo "Testing worked.";
+
 ?>
